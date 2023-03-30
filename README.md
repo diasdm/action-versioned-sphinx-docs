@@ -1,22 +1,18 @@
-# Hello world docker action
+# Versioned Sphinx documentation action
 
-This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
+This version should do somethings in the future.
+
+It doesn't do much now :)
 
 ## Inputs
 
-### who-to-greet
+### version
 
-The name of the person to greet. Default `"World"`.
-
-## Outputs
-
-### time
-
-The time we greeted you.
+The name of the person to greet. Default `"TODO"`.
 
 ## Example usage
 ```
-uses: actions/hello-world-docker-action@v2
+uses: diasdm/action-versioned-sphinx-docs@main
 with:
-  who-to-greet: 'Mona the Octocat'
+  version: '1.2.3'
 ```
