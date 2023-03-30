@@ -1,6 +1,6 @@
 # Versioned Sphinx documentation action
 
-This version should do somethings in the future.
+This action should do somethings in the future.
 
 It doesn't do much now :)
 
