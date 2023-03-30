@@ -1,0 +1,4 @@
+tox
+sphinx
+sphinx-rtd-theme
+sphinx-mdinclude
